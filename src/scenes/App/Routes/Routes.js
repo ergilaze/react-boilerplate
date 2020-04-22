@@ -3,7 +3,7 @@ import { Route, Switch } from 'react-router-dom';
 import routes from 'routes/routes';
 
 const home = () => (
-    <h1>Change in in scenes/App/Routes/Routes</h1>
+    <h1>Change me in scenes/App/Routes/Routes</h1>
 )
 
 const Routes = () => (
